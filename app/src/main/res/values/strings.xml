@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toolbar Tutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="primary">#ffffa93a</color>
+    <color name="primary_dark">#ffcf8630</color>
+    <color name="accent">#ffffa93a</color>
+</resources>
